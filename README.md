@@ -6,5 +6,8 @@
   
   
   
-  **(Towards the last in this application a pvt flow has been defined. Drag in these components to the on error continue section of the main floe for dashboard creation grafana.)**
+  **(Towards the last in this application a pvt flow has been defined. Drag in these components to the on error continue section of the main flow for dashboard creation grafana.)**
+  
+  
+  **Endpoint:** http://localhost:8081/logs
   
